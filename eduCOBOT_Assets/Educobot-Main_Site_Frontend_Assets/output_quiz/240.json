@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 240,
+"question":"Which method gets elements which are common?",
+"options":["Intersection","Symmetric difference"],
+"correct_answer":"True",
+"correct_msg":"",
+"incorrect_msg":"Intersection gets common elements and symmetric difference gets elements which are not common"
+}
+ ]}

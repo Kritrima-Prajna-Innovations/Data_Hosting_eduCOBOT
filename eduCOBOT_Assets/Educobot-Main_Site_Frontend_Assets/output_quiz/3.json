@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 3,
+"question":"__________ is used to display the output content",
+"options":["display_output()","print()"],
+"correct_answer":"False",
+"correct_msg":"print() is used to display the output content",
+"incorrect_msg":"print() is used to display the output content"
+}
+ ]}

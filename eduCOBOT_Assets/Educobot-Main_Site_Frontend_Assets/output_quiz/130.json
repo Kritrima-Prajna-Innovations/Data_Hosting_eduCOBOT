@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 130,
+"question":"what will happen if we don\u2019t increment the variable used in while loop?",
+"options":["It will be an infinite loop","The loop will be executed only once"],
+"correct_answer":"True",
+"correct_msg":"",
+"incorrect_msg":"Make sure always increment or decrement the loop according to the condition"
+}
+ ]}

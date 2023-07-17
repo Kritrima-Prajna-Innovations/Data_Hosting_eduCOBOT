@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 46,
+"question":"Please complete the code <br>\nIf money==_____:        <br> \n &emsp; &emsp;print(\u2018I have Rs.45\u2019)<br>\n\nOutput is \u2018I have Rs.45\u2019",
+"options":["45",">45"],
+"correct_answer":"True",
+"correct_msg":"",
+"incorrect_msg":""
+}
+ ]}

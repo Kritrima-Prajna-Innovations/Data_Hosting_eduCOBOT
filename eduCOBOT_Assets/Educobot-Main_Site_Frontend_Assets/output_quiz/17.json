@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 17,
+"question":"<p style=\"text-align: justify;\">The 4 naming rules are:<br>\n\u2022\tA variable name must start with a letter or the underscore character<br>\n\u2022\tA variable name cannot start with a number<br>\n\u2022\tA variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )<br>\n\u2022\tVariable names are case-sensitive (age, Age and AGE are three different variables)</p>",
+"options":["True","False"],
+"correct_answer":"True",
+"correct_msg":"",
+"incorrect_msg":""
+}
+ ]}

@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 13,
+"question":"Naming Rule 2:<br>\nA variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )<br>\n<br>\na9a_ = 9\n<br>\nIs this variable declaration correct?",
+"options":["Yes","No"],
+"correct_answer":"True",
+"correct_msg":"Yes, it doesn\u2019t start with a number, it has allowed special character _ , and alpha-numeric characters only.",
+"incorrect_msg":"Yes, it doesn\u2019t start with a number, it has allowed special character _ , and alpha-numeric characters only."
+}
+ ]}

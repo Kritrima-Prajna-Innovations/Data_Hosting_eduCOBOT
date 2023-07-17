@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 236,
+"question":"Which is used to merge 2 sets?",
+"options":["+","union"],
+"correct_answer":"False",
+"correct_msg":"",
+"incorrect_msg":"+ operator cannot be used with sets"
+}
+ ]}

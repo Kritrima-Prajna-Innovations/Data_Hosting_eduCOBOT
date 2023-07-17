@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 96,
+"question":"<p style=\"text-align: left;\">\nPlease complete the code<br>\nMoney=______   <br> \nIf money != 50:<br>\n&emsp;\tPrint(\u2018cost of toy is Rs.50 but  I have Rs.45 so I cannot buy the toy\u2019)<br>\nElse<br>\n&emsp;\tPrint(\u2018I can buy a toy\u2019)<br><br>\n(output should be \u2018cost of toy is Rs.50 but  I have Rs.45 so I cannot buy the toy\u2019)",
+"options":["50","45"],
+"correct_answer":"False",
+"correct_msg":"",
+"incorrect_msg":""
+}
+ ]}

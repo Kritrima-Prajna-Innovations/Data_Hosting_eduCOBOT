@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 28,
+"question":"Which is the correct operator for x power y?",
+"options":["X**y","X^y"],
+"correct_answer":"True",
+"correct_msg":"In python, power operator is x**y i.e. 2**5=32.",
+"incorrect_msg":"In python, power operator is x**y i.e. 2**5=32."
+}
+ ]}

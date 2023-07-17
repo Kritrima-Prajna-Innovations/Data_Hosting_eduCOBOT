@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 67,
+"question":"When can we use shorthand if",
+"options":["If I have multiple statements in IF block to execute","If I have only one statement in IF block to execute"],
+"correct_answer":"False",
+"correct_msg":"",
+"incorrect_msg":""
+}
+ ]}

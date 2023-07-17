@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 244,
+"question":"Sets and dictionary use same brackets?",
+"options":["Yes","No"],
+"correct_answer":"True",
+"correct_msg":"",
+"incorrect_msg":"Sets and dictionary both use same {} brackets"
+}
+ ]}

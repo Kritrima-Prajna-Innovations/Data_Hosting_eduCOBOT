@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 113,
+"question":"Can we pass Boolean as input",
+"options":["No","Yes"],
+"correct_answer":"False",
+"correct_msg":"",
+"incorrect_msg":""
+}
+ ]}

@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 188,
+"question":"What method is used to remove one element from the list?",
+"options":["Clear","Pop"],
+"correct_answer":"False",
+"correct_msg":"Pop removes the last element in the list",
+"incorrect_msg":"Clear removes all elements from the list"
+}
+ ]}

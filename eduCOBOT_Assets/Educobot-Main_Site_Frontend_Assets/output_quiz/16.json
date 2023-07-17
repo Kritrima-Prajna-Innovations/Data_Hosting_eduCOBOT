@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 16,
+"question":"Rule 4:<br>\nVariable names are case-sensitive <br><br>\n\nStatement: age, Age and AGE are three different variables.",
+"options":["True","False"],
+"correct_answer":"True",
+"correct_msg":"Yes, since Variable names are case-sensitive, age, Age and AGE are three different variables",
+"incorrect_msg":"Yes, since Variable names are case-sensitive, age, Age and AGE are three different variables"
+}
+ ]}

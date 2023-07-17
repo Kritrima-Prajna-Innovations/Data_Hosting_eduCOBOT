@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 196,
+"question":"Can tuple contain multiple data types?",
+"options":["Yes","No"],
+"correct_answer":"True",
+"correct_msg":"",
+"incorrect_msg":""
+}
+ ]}

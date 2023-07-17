@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 66,
+"question":"<p style=\"text-align: left;\">\nIf True=True:               <br>     \n&emsp;Print(\u2018Condition is true\u2019)     <br><br>\nIn If condition, True is checked as Boolean or string?",
+"options":["String","Boolean"],
+"correct_answer":"False",
+"correct_msg":"Strings will be in quotes",
+"incorrect_msg":""
+}
+ ]}

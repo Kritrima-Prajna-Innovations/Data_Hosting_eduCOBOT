@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 9,
+"question":"_________ in python is like a container which can store values",
+"options":["Variables","Data types"],
+"correct_answer":"True",
+"correct_msg":"You can consider a variable to be a temporary storage space where you can keep changing values.",
+"incorrect_msg":"You can consider a variable to be a temporary storage space where you can keep changing values."
+}
+ ]}

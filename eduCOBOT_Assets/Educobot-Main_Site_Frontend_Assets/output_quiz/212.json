@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 212,
+"question":"Tuple() constructor is used to",
+"options":["Create Tuples","Create Lists"],
+"correct_answer":"True",
+"correct_msg":"",
+"incorrect_msg":""
+}
+ ]}

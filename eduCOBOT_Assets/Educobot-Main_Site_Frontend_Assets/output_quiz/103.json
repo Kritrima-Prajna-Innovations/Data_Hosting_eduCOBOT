@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 103,
+"question":"Print(\u2018Can play outside\u2019)   If climate == \u2018Raining\u2019 else Print(\u2018Do not play outside\u2019)   print(\u2018Because its raining\u2019)",
+"options":["No error","This code has errors"],
+"correct_answer":"False",
+"correct_msg":"",
+"incorrect_msg":""
+}
+ ]}

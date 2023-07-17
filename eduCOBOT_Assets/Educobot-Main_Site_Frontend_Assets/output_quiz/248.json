@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 248,
+"question":"Get method will get",
+"options":["key","value"],
+"correct_answer":"False",
+"correct_msg":"",
+"incorrect_msg":"get(Key) will get value for the key"
+}
+ ]}

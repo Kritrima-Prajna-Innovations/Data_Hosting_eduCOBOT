@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 93,
+"question":"Conditional statements are handled by _______ statements",
+"options":["ELSE statements","If statements"],
+"correct_answer":"False",
+"correct_msg":"",
+"incorrect_msg":""
+}
+ ]}

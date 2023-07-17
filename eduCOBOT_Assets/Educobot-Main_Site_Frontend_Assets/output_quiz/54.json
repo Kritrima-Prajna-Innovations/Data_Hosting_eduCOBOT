@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 54,
+"question":"What is the comparison operator used for \u2018greater than or equal to\u2019?",
+"options":["<=",">="],
+"correct_answer":"False",
+"correct_msg":"",
+"incorrect_msg":""
+}
+ ]}

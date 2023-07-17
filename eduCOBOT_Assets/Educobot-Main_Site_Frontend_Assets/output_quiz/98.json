@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 98,
+"question":"<p style=\"text-align: left;\">\na=10<br>\nb=5<br>\nif a>b:<br>\n &emsp;   print('a is greater')<br>\nelse:<br>\n &emsp;   print('a is greater')<br><br>\nWhat will be the output? </p>",
+"options":["a is greater","Error"],
+"correct_answer":"True",
+"correct_msg":"",
+"incorrect_msg":""
+}
+ ]}

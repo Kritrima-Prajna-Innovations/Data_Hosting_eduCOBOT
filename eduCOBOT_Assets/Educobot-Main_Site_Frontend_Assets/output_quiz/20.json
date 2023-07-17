@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 20,
+"question":"What is type casting in python?",
+"options":["Change data type property","Declaration of data type"],
+"correct_answer":"True",
+"correct_msg":"Type casting means changing the property of data types.",
+"incorrect_msg":"Type casting means changing the property of data types."
+}
+ ]}

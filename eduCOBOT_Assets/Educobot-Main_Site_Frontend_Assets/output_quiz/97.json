@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 97,
+"question":"<p style=\"text-align: left;\">\na=10<br>\nb=5<br>\nif a>b:<br>\n &emsp;   print('a is greater')<br>\nelse:<br>\n &emsp;   print('a is greater')<br><br>\nWill this give a syntax error? </p>",
+"options":["No","Yes"],
+"correct_answer":"True",
+"correct_msg":"",
+"incorrect_msg":""
+}
+ ]}

@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 40,
+"question":"_________ statements are handled by IF statements",
+"options":["Comparitive statements","Conditional statements"],
+"correct_answer":"False",
+"correct_msg":"If checks for conditions",
+"incorrect_msg":""
+}
+ ]}

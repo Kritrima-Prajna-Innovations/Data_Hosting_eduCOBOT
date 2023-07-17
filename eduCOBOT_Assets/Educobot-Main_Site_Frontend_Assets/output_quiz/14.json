@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 14,
+"question":"_9$%a = 9\n        <br>\n\nIs this variable declaration correct?",
+"options":["Yes","No"],
+"correct_answer":"False",
+"correct_msg":"No, It has special characters that aren\u2019t allowed",
+"incorrect_msg":"No, It has special characters that aren\u2019t allowed"
+}
+ ]}

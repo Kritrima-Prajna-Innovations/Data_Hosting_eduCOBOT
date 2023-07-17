@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 156,
+"question":"Can we check decimal values in while loop condition?",
+"options":["No","Yes"],
+"correct_answer":"False",
+"correct_msg":"",
+"incorrect_msg":""
+}
+ ]}

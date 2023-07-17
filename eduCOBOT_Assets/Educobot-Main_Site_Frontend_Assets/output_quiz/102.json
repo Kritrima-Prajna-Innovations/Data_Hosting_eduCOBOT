@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 102,
+"question":"<p style=\"text-align: left;\">\nPlease complete the code, output should be \u2018b is greater\u2019 <br>\na=10<br>\nb=15<br>\nif a____b:<br>\n&emsp;\tprint(\u2018a is greater\u2019)<br>\nelse<br>\n &emsp;      print(\u2018b is greater\u2019)<br></p>",
+"options":["<",">"],
+"correct_answer":"False",
+"correct_msg":"",
+"incorrect_msg":""
+}
+ ]}

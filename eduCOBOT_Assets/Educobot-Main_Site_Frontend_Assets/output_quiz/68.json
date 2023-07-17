@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 68,
+"question":"Example for If statement with strings",
+"options":["If var=='Hello'","If var==Hello"],
+"correct_answer":"True",
+"correct_msg":"",
+"incorrect_msg":""
+}
+ ]}

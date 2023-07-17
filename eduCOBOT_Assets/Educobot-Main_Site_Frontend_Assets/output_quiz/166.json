@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 166,
+"question":"List has",
+"options":["loops","Set of elements"],
+"correct_answer":"False",
+"correct_msg":"",
+"incorrect_msg":"Toy, pencil are all elements"
+}
+ ]}

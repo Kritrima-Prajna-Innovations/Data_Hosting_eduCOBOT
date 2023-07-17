@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 101,
+"question":"if ~(a>b):  <br>\nwhat operator is used",
+"options":["Or","not"],
+"correct_answer":"False",
+"correct_msg":"",
+"incorrect_msg":""
+}
+ ]}

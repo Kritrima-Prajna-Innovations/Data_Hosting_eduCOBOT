@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 69,
+"question":"Whats the use of print statement?",
+"options":["To accept input","To display something"],
+"correct_answer":"False",
+"correct_msg":"",
+"incorrect_msg":""
+}
+ ]}

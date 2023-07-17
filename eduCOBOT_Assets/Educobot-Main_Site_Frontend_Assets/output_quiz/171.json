@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 171,
+"question":"Can list contain mix of data types?",
+"options":["No","Yes"],
+"correct_answer":"False",
+"correct_msg":"",
+"incorrect_msg":""
+}
+ ]}

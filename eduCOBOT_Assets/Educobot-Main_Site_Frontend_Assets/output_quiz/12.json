@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 12,
+"question":"Let's learn Naming rules\n        <br>\n        <br>\n\nNaming Rule 1:\n<br>\nA variable name cannot start with a number\n<br><br>\n9a = 9\n<br>\nIs this correct?",
+"options":["Yes","No"],
+"correct_answer":"False",
+"correct_msg":"9a variable name starts with a number. So its wrong",
+"incorrect_msg":"9a variable name starts with a number. So its wrong"
+}
+ ]}

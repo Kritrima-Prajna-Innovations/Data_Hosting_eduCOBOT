@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 29,
+"question":"What is the value of the expression 100 / 25?",
+"options":["4","4.0"],
+"correct_answer":"False",
+"correct_msg":"The result of standard division is always float. The value of 100 // 25 (integer division) is 4.",
+"incorrect_msg":"The result of standard division is always float. The value of 100 // 25 (integer division) is 4."
+}
+ ]}

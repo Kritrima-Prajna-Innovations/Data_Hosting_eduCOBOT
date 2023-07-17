@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 65,
+"question":"Does floating data type works same as numeric?",
+"options":["No","Yes"],
+"correct_answer":"False",
+"correct_msg":"",
+"incorrect_msg":""
+}
+ ]}

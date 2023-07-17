@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 15,
+"question":"Naming rule 3:<br>\nA variable name must start with a letter or the underscore character<br>\n\n\nWhich is the right variable declaration?",
+"options":["9z = \u201ccar\u201d","_9z = \u201ccar\u201d"],
+"correct_answer":"False",
+"correct_msg":"_9z = \u201ccar\u201d is correct because it starts with _ and not a number",
+"incorrect_msg":"_9z = \u201ccar\u201d is correct because it starts with _ and not a number"
+}
+ ]}

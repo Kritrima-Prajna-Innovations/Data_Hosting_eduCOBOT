@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 296,
+"question":"txt='I AM IN SCHOOL'<br>\nIs this txt in title case?",
+"options":["Yes","No"],
+"correct_answer":"False",
+"correct_msg":"",
+"incorrect_msg":"I Am In School , this is in title case"
+}
+ ]}

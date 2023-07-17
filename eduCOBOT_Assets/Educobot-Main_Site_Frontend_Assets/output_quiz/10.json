@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 10,
+"question":"Which one of the following is the correct way of declaring and initializing a variable, x with the value 7?",
+"options":["declare x=7","x=7"],
+"correct_answer":"False",
+"correct_msg":"The correct way of declaring and initializing a variable, x with the value 7 is x=7.",
+"incorrect_msg":"The correct way of declaring and initializing a variable, x with the value 7 is x=7."
+}
+ ]}

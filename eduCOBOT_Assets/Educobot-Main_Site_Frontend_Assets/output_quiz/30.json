@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 30,
+"question":"What is the output of the following code?<br>\n\n<p style=\"text-align:justify;\">x = 6<br>\ny = 2<br>\nprint(x ** y, x // y)</p>",
+"options":["36 3","66 0"],
+"correct_answer":"True",
+"correct_msg":"The Exponent (**) operator performs exponential (power) calculation. so here 6 ** 2 means 6*6 = 36 The // is the Floor Division operator so 6//2=3",
+"incorrect_msg":"The Exponent (**) operator performs exponential (power) calculation. so here 6 ** 2 means 6*6 = 36 The // is the Floor Division operator so 6//2=3"
+}
+ ]}

@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 25,
+"question":"Which of the following can convert the string to a float number ?",
+"options":["float(int,str)","float(str)"],
+"correct_answer":"False",
+"correct_msg":"float(str) is the right way to convert the str string into float",
+"incorrect_msg":"float(str) is the right way to convert the str string into float"
+}
+ ]}

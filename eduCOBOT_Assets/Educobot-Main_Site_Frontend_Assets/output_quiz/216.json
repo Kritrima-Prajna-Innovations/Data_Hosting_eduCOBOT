@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 216,
+"question":"Which brackets are used to create sets?",
+"options":["()","{}"],
+"correct_answer":"False",
+"correct_msg":"",
+"incorrect_msg":"() are used to create tuples"
+}
+ ]}

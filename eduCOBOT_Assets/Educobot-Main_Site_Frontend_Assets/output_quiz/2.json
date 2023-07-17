@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 2,
+"question":"_________ are special words understood by python",
+"options":["Keywords","Special-words"],
+"correct_answer":"True",
+"correct_msg":"Keywords are the reserved words in Python. We cannot use a keyword as a variable name, function name or any other identifier.",
+"incorrect_msg":"Keywords are the reserved words in Python. We cannot use a keyword as a variable name, function name or any other identifier."
+}
+ ]}

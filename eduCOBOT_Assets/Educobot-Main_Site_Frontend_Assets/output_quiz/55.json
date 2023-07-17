@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 55,
+"question":"What is the comparison operator used for \u2018not equal to\u2019?",
+"options":["!=","<>"],
+"correct_answer":"True",
+"correct_msg":"! symbol identifies 'Not'",
+"incorrect_msg":""
+}
+ ]}

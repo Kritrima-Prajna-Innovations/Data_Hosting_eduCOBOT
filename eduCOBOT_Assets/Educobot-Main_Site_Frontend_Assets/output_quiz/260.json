@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 260,
+"question":"Clear deletes the dictionary",
+"options":["True","False"],
+"correct_answer":"False",
+"correct_msg":"",
+"incorrect_msg":"Clear will delete all the key and value pairs but empty dictionary will be there"
+}
+ ]}

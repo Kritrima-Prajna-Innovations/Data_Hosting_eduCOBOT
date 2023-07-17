@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 252,
+"question":"dictionary={'car1':'maruti','carnumber':3453}<br>\ndictionary.update({'carnumber':1234})<br>\nWhat will be the output?",
+"options":["{'car1':'maruti','carnumber':1234}","{'car1':'maruti','carnumber':3453,'carnumber':1234}"],
+"correct_answer":"True",
+"correct_msg":"",
+"incorrect_msg":"If key is already present, then value will get updated"
+}
+ ]}

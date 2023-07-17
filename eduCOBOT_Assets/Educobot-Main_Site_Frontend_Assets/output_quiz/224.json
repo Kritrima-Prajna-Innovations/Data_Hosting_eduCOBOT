@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 224,
+"question":"<p style=\"text-align: justify;\">\nA={1,2,3,3}<br>\nWhat will be the output of above set?",
+"options":["A={1,2,3}","A={1,2,3,3}"],
+"correct_answer":"True",
+"correct_msg":"",
+"incorrect_msg":""
+}
+ ]}

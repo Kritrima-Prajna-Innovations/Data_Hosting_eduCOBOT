@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 64,
+"question":"<p style=\"text-align: left;\">\nmoney=43.5<br>\nIf money=43.5   <br>          \n&emsp;Print(\u2018I have 43 rupees and 50 paise\u2019)<br><br>\nPlease find the syntax error</p>",
+"options":["Missing =","Missing quotes"],
+"correct_answer":"True",
+"correct_msg":"Equal to is specified as ==",
+"incorrect_msg":""
+}
+ ]}

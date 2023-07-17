@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 95,
+"question":"When else part will be executed",
+"options":["When If statement is True","When If statement is not True"],
+"correct_answer":"False",
+"correct_msg":"",
+"incorrect_msg":""
+}
+ ]}

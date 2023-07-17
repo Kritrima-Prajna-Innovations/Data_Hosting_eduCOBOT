@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 6,
+"question":"To assign values to a variable in Python, we will use the ________ assignment operator",
+"options":["= , I.e a = 80","->, i.e a -> 80"],
+"correct_answer":"True",
+"correct_msg":"To assign values to a variable in Python, we will use the assignment (=) operator.",
+"incorrect_msg":"To assign values to a variable in Python, we will use the assignment (=) operator."
+}
+ ]}

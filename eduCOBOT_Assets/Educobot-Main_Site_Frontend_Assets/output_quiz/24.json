@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 24,
+"question":"The correct way to declare a variable x of float data type in python is",
+"options":["float(2.5)","x = 2.5"],
+"correct_answer":"False",
+"correct_msg":"We just write the variable name and can assign any type of value and then the type of variable will change according to the value we assign in it. So, x = 2.5 is correct.\nx = float(2.5) is also another correct way to define it.",
+"incorrect_msg":"We just write the variable name and can assign any type of value and then the type of variable will change according to the value we assign in it. So, x = 2.5 is correct.\nx = float(2.5) is also another correct way to define it."
+}
+ ]}

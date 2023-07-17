@@ -1,0 +1,9 @@
+{ "QuestionArr": [{
+"id": 291,
+"question":"Isdigit and Isnumeric performs same task",
+"options":["True","False"],
+"correct_answer":"True",
+"correct_msg":"",
+"incorrect_msg":""
+}
+ ]}
